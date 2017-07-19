@@ -10,295 +10,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6c92766-0134-4db5-9040-50377cb60e5a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Jama_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_math3_3_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mapsforge_map_0_3_1_SNAPSHOT_jar_with_dependencies.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mockable_android_21.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/handheld/build/intermediates/dex/debug/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/handheld/build/intermediates/pre-dexed/debug/Jama-1.0.2-f63b30f4825c88bce7dcb2019a3685fd2e075e8f.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/handheld/build/intermediates/pre-dexed/debug/classes-e09c3a0143b1eeea9fc06f0c8143bad2cc36e73c.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/handheld/build/intermediates/pre-dexed/debug/commons-math3-3.5-bfdf96a1bd234c55d8789a4ffdb420362252c116.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/handheld/build/intermediates/pre-dexed/debug/gson-2.2.4-70aa6a502d73efb127bf4a730f9aa22e59c460b5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/handheld/build/intermediates/pre-dexed/debug/mapsforge-map-0.3.1-SNAPSHOT-jar-with-dependencies-ef13342ceb496ffa4726dfadab119526c1d9399a.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/handheld/build/outputs/apk/handheld-debug-unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/handheld/build/outputs/apk/handheld-debug.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/manifests/tmp/manifestMerger4599302882806566151.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mobile/mobile.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wear/wear.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterActivity$3.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity$1.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity$2.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity$3.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity$4.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity$ActivityMode.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity$ActivityMode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/R.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/WifiSignalReaderActivity.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/activity/WifiSignalReaderActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/controllers/ParticleFilterController$1.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/controllers/ParticleFilterController$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/controllers/ParticleFilterMapController$MatrixCalculationTask.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/controllers/ParticleFilterMapController$MatrixCalculationTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/controllers/ParticleFilterMapController.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/controllers/ParticleFilterMapController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/dals/FingerprintDAL.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/dals/FingerprintDAL.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/helpers/CollisionDetectionHelper.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/helpers/CollisionDetectionHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/helpers/SQLiteImportHelper.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/helpers/SQLiteImportHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/infrastructures/DALBase.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/infrastructures/DALBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/utilities/BluetoothUtils.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/seoultechappsoftlab/wireloc/utilities/BluetoothUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/wisewells/iamzone/blelibrary/R.class" afterPath="$PROJECT_DIR$/handheld/build/intermediates/classes/debug/com/wisewells/iamzone/blelibrary/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/handheld/src/main/assets/maps/rotc_3rd_floor_100x.map" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/manifests/tmp/manifestMerger578816928255171864.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/exploded-aar/PDRPractice/iAMZONEBleLibrary/unspecified/jars/classes.jar" afterPath="$PROJECT_DIR$/handheld/build/intermediates/exploded-aar/PDRPractice/iAMZONEBleLibrary/unspecified/jars/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/mockable-android-21.jar" afterPath="$PROJECT_DIR$/handheld/build/intermediates/mockable-android-21.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/handheld/build/intermediates/resources/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/resources/resources-debug.ap_" afterPath="$PROJECT_DIR$/handheld/build/intermediates/resources/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/debug/classes.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/release/classes.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/androidTest/debug/com/wisewells/iamzone/blelibrary/R.class" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/androidTest/debug/com/wisewells/iamzone/blelibrary/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/androidTest/debug/com/wisewells/iamzone/blelibrary/test/R.class" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/androidTest/debug/com/wisewells/iamzone/blelibrary/test/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/debug/com/estimote/sdk/internal/HashCode.class" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/debug/com/estimote/sdk/internal/HashCode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/debug/com/estimote/sdk/internal/Objects.class" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/debug/com/estimote/sdk/internal/Objects.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/debug/com/wisewells/iamzone/blelibrary/R.class" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/debug/com/wisewells/iamzone/blelibrary/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/debug/com/wisewells/iamzone/blelibrary/Region.class" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/debug/com/wisewells/iamzone/blelibrary/Region.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/debug/com/wisewells/iamzone/blelibrary/utils/L.class" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/debug/com/wisewells/iamzone/blelibrary/utils/L.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/release/com/estimote/sdk/internal/HashCode.class" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/release/com/estimote/sdk/internal/HashCode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/release/com/estimote/sdk/internal/Objects.class" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/release/com/estimote/sdk/internal/Objects.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/release/com/wisewells/iamzone/blelibrary/R.class" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/release/com/wisewells/iamzone/blelibrary/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/release/com/wisewells/iamzone/blelibrary/Region.class" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/release/com/wisewells/iamzone/blelibrary/Region.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/release/com/wisewells/iamzone/blelibrary/utils/L.class" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/classes/release/com/wisewells/iamzone/blelibrary/utils/L.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/mockable-android-21.jar" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/mockable-android-21.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/resources/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/resources/resources-debug-androidTest.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/outputs/aar/iAMZONEBleLibrary-debug.aar" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/outputs/aar/iAMZONEBleLibrary-debug.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/outputs/aar/iAMZONEBleLibrary-release.aar" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/outputs/aar/iAMZONEBleLibrary-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PDRPractice.iml" afterPath="$PROJECT_DIR$/PDRPractice.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WearablePDR.iml" afterPath="$PROJECT_DIR$/WearablePDR.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle.properties" afterPath="$PROJECT_DIR$/gradle.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build.gradle" afterPath="$PROJECT_DIR$/handheld/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/generated/source/buildConfig/androidTest/debug/com/seoultechappsoftlab/wireloc/activity/test/BuildConfig.java" afterPath="$PROJECT_DIR$/handheld/build/generated/source/buildConfig/androidTest/debug/com/seoultechappsoftlab/wireloc/activity/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/generated/source/buildConfig/debug/com/seoultechappsoftlab/wireloc/activity/BuildConfig.java" afterPath="$PROJECT_DIR$/handheld/build/generated/source/buildConfig/debug/com/seoultechappsoftlab/wireloc/activity/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/generated/source/r/debug/com/seoultechappsoftlab/wireloc/activity/R.java" afterPath="$PROJECT_DIR$/handheld/build/generated/source/r/debug/com/seoultechappsoftlab/wireloc/activity/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/generated/source/r/debug/com/wisewells/iamzone/blelibrary/R.java" afterPath="$PROJECT_DIR$/handheld/build/generated/source/r/debug/com/wisewells/iamzone/blelibrary/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/assets/debug/stages/coridor-objects/obstacle.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/assets/debug/stages/coridor-objects/obstacle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/assets/debug/stages/room-objects/obstacle.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/assets/debug/stages/room-objects/obstacle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/exploded-aar/PDRPractice/iAMZONEBleLibrary/unspecified/AndroidManifest.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/exploded-aar/PDRPractice/iAMZONEBleLibrary/unspecified/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/exploded-aar/PDRPractice/iAMZONEBleLibrary/unspecified/R.txt" afterPath="$PROJECT_DIR$/handheld/build/intermediates/exploded-aar/PDRPractice/iAMZONEBleLibrary/unspecified/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/exploded-aar/PDRPractice/iAMZONEBleLibrary/unspecified/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/exploded-aar/PDRPractice/iAMZONEBleLibrary/unspecified/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/exploded-aar/PDRPractice/iAMZONEBleLibrary/unspecified/res/values/values.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/exploded-aar/PDRPractice/iAMZONEBleLibrary/unspecified/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/incremental/mergeResources/debug/merger.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/incremental/mergeResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/drawable-hdpi-v4/btn_reset_selector.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/drawable-hdpi-v4/btn_reset_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_beacon_radar.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_beacon_radar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_compass.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_compass.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_fingerprint_manager.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_fingerprint_manager.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_home.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_import_main.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_import_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_map_particle_filter.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_map_particle_filter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_particle_filter.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_particle_filter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_track.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_track.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_wifi_signal_reader.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/activity_wifi_signal_reader.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/dialog_confirmation.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/dialog_confirmation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/dialog_point_delete.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/dialog_point_delete.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/dialog_point_save.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/dialog_point_save.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/dialog_show_distance.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/dialog_show_distance.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/row_grid_home.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/row_grid_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/row_list_fingerprint_manager.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/layout/row_list_fingerprint_manager.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/menu/main.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/menu/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/menu/menu_wifi_signal_reader.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/menu/menu_wifi_signal_reader.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/values-v11/values-v11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/values-v14/values-v14.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/values-w820dp-v13/values-w820dp-v13.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/values/values.xml" afterPath="$PROJECT_DIR$/handheld/build/intermediates/res/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/handheld/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/handheld/build/outputs/logs/manifest-merger-debug-report.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/handheld.iml" afterPath="$PROJECT_DIR$/handheld/handheld.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/lint.xml" afterPath="$PROJECT_DIR$/handheld/lint.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/handheld/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/assets/stages/coridor-objects/obstacle.xml" afterPath="$PROJECT_DIR$/handheld/src/main/assets/stages/coridor-objects/obstacle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/assets/stages/room-objects/obstacle.xml" afterPath="$PROJECT_DIR$/handheld/src/main/assets/stages/room-objects/obstacle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/BeaconRadarActivity.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/BeaconRadarActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/CompassActivity.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/CompassActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/DatabaseImportActivity.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/DatabaseImportActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/FingerprintManagerActivity.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/FingerprintManagerActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/HomeActivity.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/HomeActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/PDRActivity.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/PDRActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/ParticleFilterActivity.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/ParticleFilterActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/WifiSignalReaderActivity.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/WifiSignalReaderActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/adapter/FingerprintManagerListViewAdapter.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/adapter/FingerprintManagerListViewAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/adapter/HomeGridViewAdapter.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/adapter/HomeGridViewAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/ArrowOverlayCanvas.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/ArrowOverlayCanvas.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/BeaconOverlayCanvas.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/BeaconOverlayCanvas.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/BeaconRadarCanvas.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/BeaconRadarCanvas.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/PDRCanvas.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/PDRCanvas.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/ParticleFilterCanvas.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/ParticleFilterCanvas.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/ParticleFilterMapCanvas.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/ParticleFilterMapCanvas.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/ParticleFilterOverlayCanvas.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/canvases/ParticleFilterOverlayCanvas.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/dialogs/ConfirmationDialog.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/dialogs/ConfirmationDialog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/dialogs/DeclareView.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/dialogs/DeclareView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/dialogs/FingerprintDialog.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/dialogs/FingerprintDialog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/dialogs/ViewFingerprintDialog.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/dialogs/ViewFingerprintDialog.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/dialogs/ViewMapper.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/dialogs/ViewMapper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/BeaconRadarController.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/BeaconRadarController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/CompassController.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/CompassController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/FingerprintManagerController.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/FingerprintManagerController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/HomeController.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/HomeController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/PDRController.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/PDRController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/ParticleFilterController.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/ParticleFilterController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/ParticleFilterMapController.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/ParticleFilterMapController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/dals/BeaconDAL.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/dals/BeaconDAL.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/dals/DBConstants.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/dals/DBConstants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/dals/FingerprintDAL.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/dals/FingerprintDAL.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/dals/StageDAL.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/dals/StageDAL.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/dals/StudentDAL.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/dals/StudentDAL.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Beacon.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Beacon.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Fingerprint.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Fingerprint.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/HomeIcon.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/HomeIcon.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/MatrixRSSI.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/MatrixRSSI.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Obstacle.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Obstacle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Particle.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Particle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/ParticleStep.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/ParticleStep.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/PointBeacon.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/PointBeacon.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/RSSIRecord.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/RSSIRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/RoomObject.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/RoomObject.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Stage.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Stage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Student.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Track.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/entities/Track.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/BeaconHelper.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/BeaconHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/BeaconStatisticsHelper.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/BeaconStatisticsHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/CollisionDetectionHelper.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/CollisionDetectionHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/GeoPositionHelper.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/GeoPositionHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/JsonExportHelper.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/JsonExportHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/ObstacleXMLHelper.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/ObstacleXMLHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/ParticleFilterHelper.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/ParticleFilterHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/ParticleFilterStatisticsHelper.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/ParticleFilterStatisticsHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/SQLiteImportHelper.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/helpers/SQLiteImportHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/DALBase.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/DALBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/DialogBase.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/DialogBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/EntityBase.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/EntityBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/ListViewAdapterBase.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/ListViewAdapterBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/OverlayCanvasBase.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/OverlayCanvasBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/ServiceBase.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/ServiceBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/StatisticsBase.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/infrastructures/StatisticsBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/BeaconModel.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/BeaconModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/BeaconRadarModel.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/BeaconRadarModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/CompassModel.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/CompassModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/FingerprintManagerModel.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/FingerprintManagerModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/HomeModel.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/HomeModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/PDRModel.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/PDRModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/ParticleFilterMapModel.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/ParticleFilterMapModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/ParticleFilterModel.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/ParticleFilterModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/StageModel.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/StageModel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/services/BeaconService.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/services/BeaconService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/services/FingerprintService.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/services/FingerprintService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/services/StageService.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/services/StageService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/services/StudentService.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/services/StudentService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/utilities/BluetoothUtils.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/utilities/BluetoothUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/utilities/CustomCharactersUtils.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/utilities/CustomCharactersUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/utilities/MapsUtils.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/utilities/MapsUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/utilities/PointUtils.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/utilities/PointUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/utilities/RSSIUtils.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/utilities/RSSIUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/utilities/StepDetectorUtils.java" afterPath="$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/utilities/StepDetectorUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/drawable-hdpi/btn_reset_selector.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/drawable-hdpi/btn_reset_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_beacon_radar.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_beacon_radar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_compass.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_compass.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_fingerprint_manager.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_fingerprint_manager.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_home.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_import_main.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_import_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_map_particle_filter.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_map_particle_filter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_particle_filter.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_particle_filter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_track.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_track.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_wifi_signal_reader.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/activity_wifi_signal_reader.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/dialog_confirmation.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/dialog_confirmation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/dialog_point_delete.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/dialog_point_delete.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/dialog_point_save.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/dialog_point_save.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/dialog_show_distance.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/dialog_show_distance.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/row_grid_home.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/row_grid_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/layout/row_list_fingerprint_manager.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/layout/row_list_fingerprint_manager.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/menu/main.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/menu/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/menu/menu_wifi_signal_reader.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/menu/menu_wifi_signal_reader.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/values-v11/styles.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/values-v11/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/values-v14/styles.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/values-v14/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/values-w820dp/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/handheld/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/handheld/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build.gradle" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/buildConfig/androidTest/debug/com/wisewells/iamzone/blelibrary/test/BuildConfig.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/buildConfig/androidTest/debug/com/wisewells/iamzone/blelibrary/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/buildConfig/debug/com/wisewells/iamzone/blelibrary/BuildConfig.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/buildConfig/debug/com/wisewells/iamzone/blelibrary/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/buildConfig/release/com/wisewells/iamzone/blelibrary/BuildConfig.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/buildConfig/release/com/wisewells/iamzone/blelibrary/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/r/androidTest/debug/com/wisewells/iamzone/blelibrary/R.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/r/androidTest/debug/com/wisewells/iamzone/blelibrary/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/r/androidTest/debug/com/wisewells/iamzone/blelibrary/test/R.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/r/androidTest/debug/com/wisewells/iamzone/blelibrary/test/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/r/debug/com/wisewells/iamzone/blelibrary/R.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/r/debug/com/wisewells/iamzone/blelibrary/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/r/release/com/wisewells/iamzone/blelibrary/R.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/generated/source/r/release/com/wisewells/iamzone/blelibrary/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/debug/R.txt" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/release/R.txt" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/release/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/release/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/release/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/release/res/values/values.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/incremental/mergeAssets/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/incremental/mergeAssets/debug/merger.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/incremental/mergeAssets/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/incremental/mergeAssets/release/merger.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/incremental/mergeAssets/release/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/incremental/mergeResources/androidTest/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/incremental/packageResources/debug/merger.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/incremental/packageResources/debug/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/incremental/packageResources/release/merger.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/incremental/packageResources/release/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/res/androidTest/debug/values/values.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/res/androidTest/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/symbols/androidTest/debug/R.txt" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/intermediates/symbols/androidTest/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/tmp/packageDebugJar/MANIFEST.MF" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/tmp/packageDebugJar/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/build/tmp/packageReleaseJar/MANIFEST.MF" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/build/tmp/packageReleaseJar/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/iAMZONEBleLibrary.iml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/iAMZONEBleLibrary.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/HashCode.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/HashCode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/Objects.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/Objects.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/Preconditions.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/Preconditions.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/UnsignedInteger.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/UnsignedInteger.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/UnsignedInts.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/UnsignedInts.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/UnsignedLong.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/UnsignedLong.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/UnsignedLongs.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/estimote/sdk/internal/UnsignedLongs.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/Beacon.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/Beacon.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/BeaconKey.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/BeaconKey.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/BeaconReceiver.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/BeaconReceiver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/BeaconTracker.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/BeaconTracker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/BluetoothHelper.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/BluetoothHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/Region.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/Region.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/utils/BeaconUtils.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/utils/BeaconUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/utils/L.java" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/java/com/wisewells/iamzone/blelibrary/utils/L.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/iAMZONEBleLibrary/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/import-summary.txt" afterPath="$PROJECT_DIR$/import-summary.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/.gitignore" afterPath="$PROJECT_DIR$/mobile/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/build.gradle" afterPath="$PROJECT_DIR$/mobile/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/proguard-rules.pro" afterPath="$PROJECT_DIR$/mobile/proguard-rules.pro" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/src/androidTest/java/activity/wearable/seoultechappsoftlab/com/wearablepdr/ApplicationTest.java" afterPath="$PROJECT_DIR$/mobile/src/androidTest/java/activity/wearable/seoultechappsoftlab/com/wearablepdr/ApplicationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/mobile/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/src/main/java/activity/wearable/seoultechappsoftlab/com/wearablepdr/HandheldAcvity.java" afterPath="$PROJECT_DIR$/mobile/src/main/java/activity/wearable/seoultechappsoftlab/com/wearablepdr/HandheldAcvity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/src/main/res/layout/activity_handheld_acvity.xml" afterPath="$PROJECT_DIR$/mobile/src/main/res/layout/activity_handheld_acvity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/src/main/res/menu/menu_handheld_acvity.xml" afterPath="$PROJECT_DIR$/mobile/src/main/res/menu/menu_handheld_acvity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/src/main/res/values-v21/styles.xml" afterPath="$PROJECT_DIR$/mobile/src/main/res/values-v21/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/mobile/src/main/res/values-w820dp/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/mobile/src/main/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/mobile/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/mobile/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/.gitignore" afterPath="$PROJECT_DIR$/wear/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/build.gradle" afterPath="$PROJECT_DIR$/wear/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/proguard-rules.pro" afterPath="$PROJECT_DIR$/wear/proguard-rules.pro" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/wear/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/java/activity/wearable/seoultechappsoftlab/com/wearablepdr/WearableActivity.java" afterPath="$PROJECT_DIR$/wear/src/main/java/activity/wearable/seoultechappsoftlab/com/wearablepdr/WearableActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/layout/activity_wearable.xml" afterPath="$PROJECT_DIR$/wear/src/main/res/layout/activity_wearable.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/layout/rect_activity_wearable.xml" afterPath="$PROJECT_DIR$/wear/src/main/res/layout/rect_activity_wearable.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/layout/round_activity_wearable.xml" afterPath="$PROJECT_DIR$/wear/src/main/res/layout/round_activity_wearable.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wear/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/wear/src/main/res/values/strings.xml" />
     </list>
     <ignored path="PDRPractice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -2369,8 +2101,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1366" />
-    <option name="height" value="689" />
+    <option name="width" value="1440" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -2397,7 +2129,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
@@ -2409,8 +2142,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2922,7 +2654,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1366" height="689" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="821" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2934,11 +2666,11 @@
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33682373" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2680851" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18126889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17167382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2984,6 +2716,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5745">
+          <caret line="421" column="86" selection-start-line="421" selection-start-column="67" selection-end-line="421" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/utilities/MapsUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/controllers/ParticleFilterMapController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="45" column="64" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/models/ParticleFilterMapModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="120" column="11" selection-start-line="120" selection-start-column="11" selection-end-line="120" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/handheld/src/main/java/com/seoultechappsoftlab/wireloc/activity/ParticleFilterMapActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5745">
