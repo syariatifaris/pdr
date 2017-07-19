@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mapLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.seoultechappsoftlab.wireloc.activity.canvases.ParticleFilterMapCanvas
+        android:id="@+id/particleFilterMapView"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent" />
+
+    <Button
+        android:id="@+id/resetParticleButton"
+        android:layout_width="70dp"
+        android:layout_height="55dp"
+        android:background="@drawable/btn_reset_selector"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/totalParticleEditText"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="70dp"
+        android:text="@string/total_particle_edit"/>
+
+    <Button
+        android:id="@+id/saveTotalParticleButton"
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:layout_toRightOf="@id/totalParticleEditText"
+        android:text="@string/dialog_fingerprint_button_save"
+        android:inputType="number"
+        android:textSize="12sp" />
+
+</RelativeLayout>

@@ -1,0 +1,65 @@
+<stage>
+    <obstacle>
+        <label>wall1</label>
+        <resource>wall1.png</resource>
+        <width>757</width>
+        <height>333</height>
+        <initpoint>7 84</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>wall2</label>
+        <resource>wall2.png</resource>
+        <width>760</width>
+        <height>244</height>
+        <initpoint>7 620</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>wall3</label>
+        <resource>wall3.png</resource>
+        <width>753</width>
+        <height>187</height>
+        <initpoint>7 1343</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>wall4</label>
+        <resource>wall4.png</resource>
+        <width>43</width>
+        <height>1082</height>
+        <initpoint>1030 260</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>wall5</label>
+        <resource>wall5.png</resource>
+        <width>43</width>
+        <height>84</height>
+        <initpoint>1030 3</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>toilet1</label>
+        <resource>toilet1.png</resource>
+        <width>475</width>
+        <height>203</height>
+        <initpoint>7 417</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>stair1</label>
+        <resource>stair1.png</resource>
+        <width>529</width>
+        <height>479</height>
+        <initpoint>7 864</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>stairentry1</label>
+        <resource>stairentry1.png</resource>
+        <width>43</width>
+        <height>145</height>
+        <initpoint>724 864</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>stairentry2</label>
+        <resource>stairentry2.png</resource>
+        <width>43</width>
+        <height>145</height>
+        <initpoint>717 1198</initpoint>
+    </obstacle>
+</stage>

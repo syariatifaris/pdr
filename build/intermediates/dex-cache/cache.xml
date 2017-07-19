@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/farissyariati/Desktop/PDR/PDRPractice/handheld/libs/commons-math3-3.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="13af68e9a11576953f5c4b09436f8207be9d3a27">
+        <dex dex="/Users/farissyariati/Desktop/PDR/PDRPractice/handheld/build/intermediates/pre-dexed/debug/commons-math3-3.5-6068cdc36a9c19da15c1706f065ccf2b1b6c0c84.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/farissyariati/Desktop/PDR/PDRPractice/handheld/build/intermediates/pre-dexed/debug/gson-2.2.4-d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+    <item
+        jar="/Users/farissyariati/Desktop/PDR/PDRPractice/handheld/libs/Jama-1.0.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="10027ce1ef383e5c8b1d4f82eaa0dc8587647149">
+        <dex dex="/Users/farissyariati/Desktop/PDR/PDRPractice/handheld/build/intermediates/pre-dexed/debug/Jama-1.0.2-4c46c4ee5bf0bafdc9518163bb7f97ffe2dd04f0.jar" />
+    </item>
+    <item
+        jar="/Users/farissyariati/Desktop/PDR/PDRPractice/handheld/build/intermediates/exploded-aar/PDRPractice/iAMZONEBleLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8e163ab588c79103fb89cf5af548768409becf05">
+        <dex dex="/Users/farissyariati/Desktop/PDR/PDRPractice/handheld/build/intermediates/pre-dexed/debug/classes-0fad2dd195573aee84ebdaa601bb8f4446be9726.jar" />
+    </item>
+    <item
+        jar="/Users/farissyariati/Desktop/PDR/PDRPractice/handheld/libs/mapsforge-map-0.3.1-SNAPSHOT-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="985ff21ca00d32875884de681146e48db12314a7">
+        <dex dex="/Users/farissyariati/Desktop/PDR/PDRPractice/handheld/build/intermediates/pre-dexed/debug/mapsforge-map-0.3.1-SNAPSHOT-jar-with-dependencies-e158e6751e4560e78bc7dee5a2418b74f6531e44.jar" />
+    </item>
+
+</items>

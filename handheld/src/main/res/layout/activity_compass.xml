@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/tvHeadingDegree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/compass_activity" 
+        />
+    
+    <ImageView 
+        android:id="@+id/iVCompassImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvHeadingDegree"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/img_compass"
+        android:contentDescription="@string/compass_activity"/>
+	
+</RelativeLayout>

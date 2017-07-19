@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PDR Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bluetooth_not_supported">Bluetooth Not Supported in This Device</string>
+    <string name="matrix_reloaded">Matrix Successfully Reloaded</string>
+    <string name="matrix_failed">Matrix Operation Failed</string>
+    <string name="step_mode">Step Mode</string>
+    <string name="edit_particle_mode">Change Total Particle</string>
+    <string name="fingerprint_mode">Fingerprint Mode</string>
+    <string name="radar_mode">Radar Mode</string>
+    <string name="hide_particle">Hide Particle</string>
+    <string name="mode_message">[mode] Turned [state]</string>
+    <string name="on_state">On</string>
+    <string name="off_state">Off</string>
+    <string name="calculate_kriging">Kriging</string>
+    <string name="kriging_loading">Please wait..</string>
+    <string name="change_stage">Change Room</string>
+    <string name="record_step">Record Step</string>
+    <string name="trajectory">Trajectory</string>
+    <string name="reset_trajectory">Reset Trajectory</string>
+    <string name="reset_particle">Reset Particle</string>
+    <string name="show_room_id">Show Room Id</string>
+    <string name="total_weight_show">Total Weight: </string>
+    <string name="average_normal_distribution_show">Average Normal Distribution: </string>
+    <string name="maximum_normal_distribution_show">Maximum Normal Distribution: </string>
+    <string name="total_particle_edit">100</string>
+    <string name="set_total_particle_success">Total Particle Changed</string>
+    
+    <string name="activity_home_dialog_title">Reset Current Database</string>
+    <string name="activity_home_dialog_message">
+        Your database will be reseted to the predefine values. Proceed?
+    </string>
+    <string name="activity_home_dialog_yes">Import</string>
+    <string name="activity_home_dialog_no">Cancel</string>
+    <string name="fingerprints">Fingerprints</string>
+
+    <!--Region Fingerprinting Manager-->
+    <string name="fingerprint_status">Status: [s]</string>
+    <string name="fingerprint_status_enable">Enable</string>
+    <string name="fingerprint_status_disable">Disable</string>
+    <!--End Region Fingerprinting Manager-->
+
+    <!-- Region Button -->
+    <string name="btn_reset_particle">Reset</string>
+    <!-- End Region Button -->
+    
+    <!-- Region Activity -->
+    <string name="home_main_activity">PDR Demo</string>
+    <string name="pdr_activity">Step (PDR)</string>
+    <string name="beacon_radar_activity">Beacon Radar</string>
+    <string name="particle_filter_activity">Particle Filter</string>
+    <string name="database_import_activity">Import DB</string>
+    <string name="particle_map_activity">Map View</string>
+    <string name="compass_activity">Compass</string>
+    <string name="fingeprint_manager_activity">Fingerprint Manager</string>
+    <string name="wifi_signal_activity">Wifi Signal</string>
+    <!-- End Region Activity -->
+    
+    <!-- Region Dialog -->
+    <string name="dialog_fingerprint_title">Set Fingerprint Point</string>
+    <string name="dialog_fingerprint_data_title">Fingerprint Point Data</string>
+    <string name="dialog_fingerprint_button_ok">OK</string>
+    <string name="dialog_fingerprint_button_cancel">Cancel</string>
+    <string name="dialog_fingerprint_button_save">Save</string>
+    <string name="dialog_fingerprint_button_delete">Delete</string>
+    <string name="dialog_fingerprint_button_disable">Disable</string>
+    <string name="dialog_fingerprint_button_enable">Enable</string>
+    <string name="dialog_fingerprint_button_set_unreachable">Set Unreachable</string>
+    <string name="dialog_fingerprint_data_exists">
+        Data for this point is already exists
+    </string>
+    
+    <string name="dialog_fingerprint_distance">Distance: </string>
+    <string name="dialog_fingerprint_rssi">RSSI: </string>
+    <string name="dialog_fingerprint_mac">Mac Address: </string>
+    <string name="dialog_fingerprint_label">Location: </string>
+    <string name="dialog_fingerprint_stage_id">Stage: </string>
+    <string name="dialog_fingerprint_position_format">Position: ([x], [y])</string>
+    <!-- End Region Dialog -->
+    
+    <!-- Region Step Recording -->
+    <string name="step_recording_coordinate_format">Position: ([x], [y])</string>
+    <string name="step_recording_normal_distribution_and_weight">Normal Distribution: [n] - Particle Weight: [w]</string>
+    <string name="step_recording_total_for_weight_and_normal_distribution">Total Particle Weight: [tw] - Total Normal Distribution: [tn]</string>
+    <string name="step_recording_saved_successfully">Step Recording Saved Successfully</string>
+    <string name="title_activity_wifi_signal_reader">WifiSignalReaderActivity</string>
+    <!-- End Region Step Recording -->
+
+    <!--Region Wifi-->
+    <string name="wifi_access_point">Access Point: [ap] - [sts]</string>
+    <string name="wifi_rssi_strength">RSSI: [rssi]</string>
+    <string name="beacon_rssi_strength">Beacon MAC: [bmac]\nRSSI: [brssi]</string>
+    <string name="button_start_record_rssi_values">Record BLE and Wifi RSSI</string>
+    <string name="button_stop_record_save_rssi_values">Stop</string>
+    <string name="tv_save_counter">Saved Record: [r]</string>
+    <!--End Region Wifi-->
+
+    <!--Region Shared Preferences Key-->
+    <string name="key_total_particle">SEOULTECHAPPSOFTLAB_KEY_TOTAL_PARTICLE</string>
+    <string name="total_particle_default">100</string>
+    <!--End Region Shared Preferences Key-->
+</resources>

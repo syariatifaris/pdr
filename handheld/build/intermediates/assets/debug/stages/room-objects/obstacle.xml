@@ -1,0 +1,93 @@
+<stage>
+    <obstacle>
+        <label>table 1</label>
+        <resource>table1.png</resource>
+        <width>645</width>
+        <height>145</height>
+        <initpoint>127 1385</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>table 2</label>
+        <resource>table2.png</resource>
+        <width>172</width>
+        <height>177</height>
+        <initpoint>902 1133</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>table 3</label>
+        <resource>table3.png</resource>
+        <width>343</width>
+        <height>145</height>
+        <initpoint>429 1127</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>table 4</label>
+        <resource>table4.png</resource>
+        <width>551</width>
+        <height>145</height>
+        <initpoint>435 887</initpoint>
+    </obstacle>
+        <obstacle>
+        <label>table 5</label>
+        <resource>table5.png</resource>
+        <width>136</width>
+        <height>1001</height>
+        <initpoint>7 210</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>wall 6</label>
+        <resource>wall6.png</resource>
+        <width>624</width>
+        <height>29</height>
+        <initpoint>449 858</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>object 7</label>
+        <resource>object7.png</resource>
+        <width>320</width>
+        <height>310</height>
+        <initpoint>753 549</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>wall 8</label>
+        <resource>wall8.png</resource>
+        <width>29</width>
+        <height>314</height>
+        <initpoint>812 237</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>table 9</label>
+        <resource>table9.png</resource>
+        <width>59</width>
+        <height>264</height>
+        <initpoint>753 284</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>table 10</label>
+        <resource>table10.png</resource>
+        <width>221</width>
+        <height>59</height>
+        <initpoint>532 800</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>table 11</label>
+        <resource>table11.png</resource>
+        <width>115</width>
+        <height>264</height>
+        <initpoint>841 285</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>table 15</label>
+        <resource>table15.png</resource>
+        <width>280</width>
+        <height>474</height>
+        <initpoint>373 250</initpoint>
+    </obstacle>
+    <obstacle>
+        <label>table 14</label>
+        <resource>table14.png</resource>
+        <width>1067</width>
+        <height>117</height>
+        <initpoint>7 3</initpoint>
+    </obstacle>
+</stage>
